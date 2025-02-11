@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é <strong>Júlio Alencar</strong> e minha stack é focada em <strong>back-end</strong>. <br>
-  No momento, estou estudando programação, principalmente <strong>Java</strong>, e cursando <strong>Sistemas de Informação</strong>.
+  My name is <strong>Júlio Alencar</strong> and my stack is focused on <strong>back-end</strong>. <br>
+  At the moment, I am studying programming, mainly <strong>Java</strong>, and studying <strong>Information Systems</strong>.
 </p>
 
 <p align="left">
-  🌍 <strong>Linguagens:</strong> Java, PHP e Python.
+  🌍 <strong>Languages:</strong> Java, PHP e Python.
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 <strong>Entre em contato comigo!:</strong> ⤵️
+  💌 <strong>Contact me!:</strong> ⤵️
 </p>
 
 <p align="left">
