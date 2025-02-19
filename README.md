@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🌍 <strong>Languages:</strong> Java, PHP e Python.
+  🌍 <strong>Languages:</strong> Java, PHP and Python.
 </p>
 
 <p align="left">
-  🔧 <strong>Frameworks:</strong> Spring Boot, Laravel e Django.
+  🔧 <strong>Frameworks:</strong> Spring Boot, Laravel and Django.
 </p>
 
 <p align="left">
