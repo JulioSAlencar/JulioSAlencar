@@ -7,25 +7,24 @@
 
 <h2 align="left">About Me</h2>
 
-<div align="left" style="display: flex; align-items: flex-start;">
+<div align="left" style="display: flex; align-items: flex-start; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
        alt="Computer Illustration" 
        width="280px" 
        align="right" 
        style="margin-left: 20px; border-radius: 12px; box-shadow: 2px 2px 12px rgba(0,0,0,0.2);"/>
+</div>
 
-  <p align="left">
+<p align="left">
    A backend-focused developer passionate about building solid, scalable, and efficient systems. <br>
     My main tools are <strong>Java</strong> and <strong>PHP</strong>, with experience using frameworks like <strong>Spring Boot</strong> and <strong>Laravel</strong>.
-  </p>
-  <p align="left">
+</p>
+<p align="left">
     I'm currently pursuing a degree in <strong>Information Systems</strong> while continuously improving my technical knowledge through hands-on projects and professional challenges.
-  </p>
-  <p align="left">
+</p>
+<p align="left">
     I believe excellence is not optional — it's a mindset.
-  </p>
-
-</div>
+</p>
 
 
 
